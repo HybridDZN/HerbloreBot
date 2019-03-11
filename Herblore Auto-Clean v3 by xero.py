@@ -45,5 +45,5 @@ if column_3 == 7:
         time.sleep(.04)
         column_4 = column_4 + 1
 #Script quit statement    
-elif column_4 == 7:
+if column_4 == 7:
     quit()
